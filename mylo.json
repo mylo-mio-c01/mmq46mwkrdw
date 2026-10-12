@@ -1,0 +1,12 @@
+{
+ "casting": "a_faire",
+ "cree": "2026-10-12",
+ "etat": "actif",
+ "expire": "2027-10-12",
+ "suivi": {
+  "active": "2026-10-12",
+  "connecte": "2026-10-12",
+  "soul": "2026-10-12"
+ },
+ "v": 0
+}
